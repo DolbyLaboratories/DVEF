@@ -1,0 +1,82 @@
+This Addendum to the Dolby Voice Software and Support Agreement (“Addendum”) is entered into by and
+between Dolby Laboratories Licensing Corporation, a New York corporation, Dolby International AB, a
+Swedish company residing in The Netherlands and you (as an individual hereinafter referred to as “you”
+or “Customer” or "Licensee"). This Addendum is governed by the terms in the Dolby Voice Software and
+Support Agreement entered into by and between the parties, the terms of which are incorporated herein by
+reference. Defined terms used in this Addendum, and not otherwise defined herein, have the meanings given
+to them in the Agreement. In consideration of the mutual covenants herein and other good and valuable
+consideration, the receipt and sufficiency of which are hereby acknowledged, the parties agree as follows:
+
+1. License: Pursuant to this Addendum, Licensor hereby grants Licensee a royalty-free, nonexclusive,
+nontransferable, nonassignable license (subject to Licensee’s continued compliance with this Addendum)
+for the duration of the Term, to Sell the software product(s) set forth in Exhibit A attached hereto, in
+machine executable object code form, and any supporting documentation provided by Licensor to Licensee
+(collectively, the “Software”) to End Users for use in Consumer Electronics Devices solely as connected to
+the Dolby Voice Conferencing Server Software through use of the Licensee Services in the United States and
+Canada only.
+
+2. EULA: Licensee shall incorporate the End User License Agreement (set out in Exhibit B titled “EULA”) with
+the Licensee Service to govern End User’s use of the Software. For the avoidance of doubt, the EULA set out
+in this Addendum shall supersede the EULA referenced in the Agreement.
+
+3. License Restriction: Licensee shall have no right to copy (except for one (1) back-up copy), modify or
+create derivative works of the Software or to reverse assemble, reverse engineer, decompile or otherwise
+attempt to derive source code from the Software.
+
+4. Rights in Software: This Agreement is not a sale and does not transfer to Licensee any title or ownership
+interest in or to the Software or any patent, copyright, trade secret, trade name, trademark or other
+proprietary or intellectual property rights related to the Software. Except for the rights expressly granted
+herein, Licensor retains all of its right, title and interest in and to the Software. Licensee shall not remove,
+alter, or obscure any proprietary notices contained on or within the Software and shall reproduce such
+notices on any back-up copy of the Software.
+
+5. Open Source Software: “Open Source Software” means any software or other material included in the
+Software which is (1) subject to a license (a) listed at http://opensource.org/licenses/ as of the effective date,
+(b) that meet the criteria listed at http://opensource.org/docs/definition.php as of the effective date, or (c)
+that is licensed under a free software, open source software, or similar licensing model; and (2) which if
+distributed by Licensee would (a) impose any obligations on Licensee to provide reports or royalties, or to
+disclose any information to a third party, or (b) impose any requirements that any patents related to the
+Software must be licensed to, or may be asserted against, recipients of the Software. A list of such Open
+Source Software, as amended from time to time, is specified in Exhibit C titled “Dolby Voice Electron
+Framework SDK version 1.0 Third-Party Software. Open Source Software also includes libraries from the
+FFmpeg project under the LGPLv2.1. The Open Source Software is not subject to the terms and conditions of
+this Addendum. Instead, each item of Open Source Software is licensed under the terms of the end user
+license that accompanies such Open Source Software. Nothing in this Addendum limits Licensee’s rights
+under, or grants Licensee rights that supersede, the terms and conditions of any applicable end user license
+for the Open Source Software.
+
+6. Feedback: Licensee hereby grants to Licensor a non-exclusive, royalty-free, worldwide, perpetual,
+irrevocable, non-terminable, transferable, assignable and sublicensable license to reproduce, distribute,
+publicly perform and display, make, have made, sell, import, modify and make derivative works based on,
+and otherwise use and exploit any and all suggestions, comments, ideas, and all other types of information
+relating to the Software which is communicated directly or indirectly by Licensee to Licensor.
+
+7. Support: Licensor will provide technical support only for the version of Electron, Chromium and Dolby
+Voice Client as listed in the release notes for the Software, and as updated from time to time by Licensor.
+
+8. No Warranty by Licensor: LICENSOR IS PROVIDING THE SOFTWARE AND OPEN SOURCE SOFTWARE TO
+LICENSEE “AS IS” AND WITHOUT WARRANTY OF ANY KIND WHATSOEVER, EXPRESS OR IMPLIED. ALL IMPLIED
+WARRANTIES OF NONINFRINGEMENT, MERCHANTABILITY AND/OR FITNESS FOR A PARTICULAR PURPOSE
+ARE HEREBY DISCLAIMED BY LICENSOR AND EXCLUDED. LICENSOR DOES NOT WARRANT THAT SOFTWARE
+AND OPEN SOURCE SOFTWARE OR THE FUNCTIONS CONTAINED THEREIN WILL MEET LICENSEE’S
+REQUIREMENTS, THAT THE OPERATION OF THE SOFTWARE AND OPEN SOURCE SOFTWARE WILL BE
+UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE AND OPEN SOURCE SOFTWARE
+WILL BE CORRECTED. LICENSEE IS SOLELY RESPONSIBLE FOR THE USE AND DISTRIBUTION OF OPEN
+SOURCE SOFTWARE AND ASSUMES ALL RISKS ASSOCIATED WITH ITS USE, INCLUDING WITH RESPECT TO
+THE FFMPEG OPEN SOURCE SOFTWARE LICENSE.
+
+9. Indemnification: Licensee shall indemnify, defend and hold harmless Licensor, its affiliates, their
+respective successors and their respective officers, directors, employees, agents, and representatives for any
+claim, liability, loss or damage arising out of: (a) Licensee’s breach of any term of this Agreement; and (b)
+any claim of allegedly unauthorized use or violation of any third-party patent, copyright, trade secret, or
+other intellectual property.
+
+10. Precedence: In the event of any conflict between the provisions of the body of the Agreement and this
+Addendum with respect to the Software listed in Exhibit A, this Addendum shall prevail.
+
+11. This Addendum may be signed in counterparts, each of which shall be deemed an original, but all of
+which, taken together shall constitute one and the same Addendum. Execution of a facsimile or electronic
+copy of this Addendum shall have the same force and effect as execution of an original, and a facsimile or
+electronic signature shall be deemed an original and valid signature.
+Except as expressly stated otherwise in this Addendum, all provisions of the Agreement, including the
+Appendices thereto, remain in full force and effect without modification.
