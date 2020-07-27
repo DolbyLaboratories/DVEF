@@ -1,0 +1,17 @@
+Dolby Voice Electron Framework (DVEF) Source Patch Release Notes
+======================================
+DVEF_8.3.4_3.0.1_RTS1_source_patch_002cbab5
+
+  CHANGES
+  * Initial release integrating Electron v8.3.4 and DVC_3.0.1_r5245647
+
+  COMPONENTS
+  * Source patch to apply on Electron v8.3.4 to enable integration with DVC_3.0.1_r5245647
+
+  SUPPORTED PLATFORMS
+  * macOS 10.11.6 or later
+  * Ubuntu 16.04 or later
+  * Windows 10 or later
+
+  KNOWN ISSUES
+  * None
